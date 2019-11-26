@@ -1,8 +1,6 @@
 # project-ideas
  our project ideas
 
-
-
 csane
 halloween scsare
 halloween funny
